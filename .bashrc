@@ -1,6 +1,6 @@
 # Aliases
 
-alias e="exa -lhgmu --git"
+alias e="exa -lhgmua --git"
 
 # Functions (Aliases on Steroids)
 
